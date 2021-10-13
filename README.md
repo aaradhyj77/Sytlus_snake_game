@@ -18,7 +18,8 @@
 ## The sample video is given below 
 
 
-https://user-images.githubusercontent.com/83019850/137156283-92f83305-ae25-4e87-a611-85297025fe72.mp4
+https://user-images.githubusercontent.com/83019850/137162848-dec63953-2629-4a04-9b46-d76d5d744832.mp4
+
 
 ## INSTUCTIONS: To play or run code
 > * Please take stylus a plane object i.e., that only os one color and no text no it.

@@ -9,7 +9,7 @@
 >  * We just created the list that stores snake body and hurdle ,fruit,snake's head coordinates . And they are displayed on sreen using fuvtions of pygame.
 >  * Snakes is moved and its collision and eating of food is checked and score keeps on increasing.
 ![ezgif-1-69da4e3bc154](https://user-images.githubusercontent.com/83019850/137133655-6e0b1db6-68d0-4201-afa6-ac0ac3f178aa.gif)
-> In the above gif Snake is in "GREEEN", fruit is in "White" , and hurdle is in "BLUE".
+> In the above gif Snake is in "GREEN", fruit is in "White" , and hurdle is in "BLUE".
 ## 3.To track the movment of stylus and move snake accordingly:-
 > * This is the unique part of the game. The sample stylus is been detected and tracked so that the snake can be moved(up,down,right,left).
 > * For detection of stylus position : concept of hsv thresholding an concept of conture is used. Using OpenCv fuctions.
@@ -20,3 +20,7 @@
 
 https://user-images.githubusercontent.com/83019850/137156283-92f83305-ae25-4e87-a611-85297025fe72.mp4
 
+## INSTUCTIONS: To play or run code
+> * Please take stylus a plane object i.e., that only os one color and no text no it.
+> * Take the capture of stylus properly.
+> * Difficulty level can be changed by changing value of "difficulty", its by default 'Easy'. 

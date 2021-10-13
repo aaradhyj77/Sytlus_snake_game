@@ -15,3 +15,8 @@
 > * For detection of stylus position : concept of hsv thresholding an concept of conture is used. Using OpenCv fuctions.
 > * For detection of direction: Position of stylus in current and the 10th before frame is used.
 > * Using this two points slope has been calculated . and applying some thershold conditions direction of stylus is calculated.
+## The sample video is given below 
+
+
+https://user-images.githubusercontent.com/83019850/137156283-92f83305-ae25-4e87-a611-85297025fe72.mp4
+
